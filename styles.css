@@ -71,13 +71,14 @@ header img {
     text-align: center;
     text-decoration: none;
     background-color: #800000;
-    color: white;
+    color: black;
     font-weight: bold;
     padding: 1em 2em; /* Moved width declaration from here */
 }
 
 #nav_menu ul li a.current {
     color: yellow;
+	background-color: #64FF33;
 }
 
 #nav_menu ul ul {
