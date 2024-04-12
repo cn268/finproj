@@ -8,12 +8,12 @@ html {
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
-    font-size: 100%;
-    width: 98%;
+	font-size: 100%;
+	width: 98%;
 	max-width: 960px;
-    margin: 0 auto;
-    border: 3px solid #931420;
-    background-color: #fffded;
+	margin: 0 auto;
+	border: 3px solid #931420;
+	background-color: #fffded;
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -21,7 +21,7 @@ a:focus, a:hover {
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
-		background-color: rgb(68,114,196)
+	background-color: rgb(68,114,196);
 }
 header h2 {
 	font-size: 175%;
