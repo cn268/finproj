@@ -21,7 +21,7 @@ a:focus, a:hover {
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
-		background-image: rgb(68,114,196)
+		background-color: rgb(68,114,196)
 }
 header h2 {
 	font-size: 175%;
