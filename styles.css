@@ -185,12 +185,27 @@ ul {
 
 /* the styles for the footer */
 footer {
-	background-color: #931420;
+	background-color: #4e3076;
+	color: #ff9500;
 	clear: both;
-
+}
+footer a.text-muted {
+  color: #ff9500;
+}
 }
 footer p {
 	text-align: center;
-	color: white;
+	color: #ff9500;
 	padding: 1em 0;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
 }
