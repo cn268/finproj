@@ -136,7 +136,8 @@ header img {
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             padding: 20px;
             background-color: #fff;
-            width: 300px;
+            width: 40%;
+            float: left;
         }
         .card h2 {
             margin-top: 0;
