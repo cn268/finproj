@@ -89,7 +89,7 @@ header img {
 #nav_menu ul li a.current {
 	background-color: #cf0000;
 	width: auto;
-	height: auto;
+	height: 100%;
 }
 
 #nav_menu ul ul {
