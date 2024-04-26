@@ -129,6 +129,20 @@ header img {
 	display: block;
 	clear: both;
 }
+/* Card */
+.card {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            background-color: #fff;
+            width: 300px;
+        }
+        .card h2 {
+            margin-top: 0;
+        }
+        .card p {
+            margin-bottom: 0;
 /* Ensure submenu items are displayed vertically */
 .submenu li {
 	display: block;
