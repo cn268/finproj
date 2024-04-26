@@ -208,16 +208,11 @@ section li {
 	padding-bottom: .35em;
 }
 
-h2 {
-  padding-left: 5%;
-}
 h3 {
   color: #ff9500;
   width: auto;
-  padding-left: 5%;
 }
 h4 {
-  padding-left: 5%;
   font-size: 125%;
   color: #b01c37;
 }
