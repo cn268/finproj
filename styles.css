@@ -61,6 +61,7 @@ header img {
     display: flex;
     justify-content: space-between;
     background-color: rgb(0,176,240);
+    height: 100%;
 }
 
 #nav_menu ul li {
@@ -79,7 +80,8 @@ header img {
     font-weight: bold;
     padding: 1em 2em;
     box-sizing: border-box;
-    poisition: relative;
+    position: relative;
+    height: 100%;
 }
 
 #nav_menu ul li a.current {
