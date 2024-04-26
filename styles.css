@@ -52,6 +52,7 @@ header img {
 #nav_menu {
     width: 100%;
 	background-color: rgb(68,114,196);
+	padding: 0 !important;
 }
 
 #nav_menu ul {
@@ -149,7 +150,9 @@ section h2 {
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
 }
-
+section h4 {
+  padding-left: 0 !important;
+}
 section p {
 	padding-bottom: .5em;
 }
@@ -164,11 +167,17 @@ section ul {
 section li {
 	padding-bottom: .35em;
 }
+
+h2 {
+  padding-left: 5%;
+}
 h3 {
   color: #ff9500;
   width: auto;
+  padding-left: 5%;
 }
 h4 {
+  padding-left: 5%;
   font-size: 125%;
   color: #b01c37;
 }
