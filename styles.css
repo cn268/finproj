@@ -130,7 +130,7 @@ header img {
 	clear: both;
 }
 /* Card */
-.card {
+cardcollection .card{
   border: 1px solid #ccc;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -139,7 +139,7 @@ header img {
   width: 40%;
   float: left;
 }
-.card h2 {
+cardcollection .card h2 {
   margin-top: 0;
 }
 .card p {
@@ -159,6 +159,15 @@ header img {
 }
 .cardbanner img {
   height: 100%;
+}
+.card2 {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #fff;
+  width: 60%;
+  float: right;
 }
 /* Ensure submenu items are displayed vertically */
 .submenu li {
