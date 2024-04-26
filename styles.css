@@ -166,7 +166,11 @@ section li {
 }
 h3 {
   color: #ff9500;
-  width: 20%;
+  width: auto;
+}
+h4 {
+  font-size: 125%;
+  color: #b01c37;
 }
 
 /* the styles for the article */
